@@ -1,1 +1,1 @@
-I suggest you import flutter, laravel and database together for the application to work properly.
+I suggest you import flutter and laravel together for the application to work properly.
